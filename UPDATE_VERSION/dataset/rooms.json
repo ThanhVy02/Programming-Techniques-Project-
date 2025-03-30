@@ -1,0 +1,562 @@
+[
+    {
+        "room_id": 101,
+        "floor": 1,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 102,
+        "floor": 1,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 103,
+        "floor": 1,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 104,
+        "floor": 1,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 105,
+        "floor": 1,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 106,
+        "floor": 1,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 107,
+        "floor": 1,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 108,
+        "floor": 1,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 201,
+        "floor": 2,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 202,
+        "floor": 2,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 203,
+        "floor": 2,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 204,
+        "floor": 2,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 205,
+        "floor": 2,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 206,
+        "floor": 2,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 207,
+        "floor": 2,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 208,
+        "floor": 2,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 301,
+        "floor": 3,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 302,
+        "floor": 3,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 303,
+        "floor": 3,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 304,
+        "floor": 3,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 305,
+        "floor": 3,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 306,
+        "floor": 3,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 307,
+        "floor": 3,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 308,
+        "floor": 3,
+        "room_type": "Classic Room",
+        "price": 2400000,
+        "status": "available"
+    },
+    {
+        "room_id": 401,
+        "floor": 4,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 402,
+        "floor": 4,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 403,
+        "floor": 4,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 404,
+        "floor": 4,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 405,
+        "floor": 4,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 406,
+        "floor": 4,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 407,
+        "floor": 4,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 408,
+        "floor": 4,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 501,
+        "floor": 5,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 502,
+        "floor": 5,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 503,
+        "floor": 5,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 504,
+        "floor": 5,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 505,
+        "floor": 5,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 506,
+        "floor": 5,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 507,
+        "floor": 5,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 508,
+        "floor": 5,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 601,
+        "floor": 6,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 602,
+        "floor": 6,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 603,
+        "floor": 6,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 604,
+        "floor": 6,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 605,
+        "floor": 6,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 606,
+        "floor": 6,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 607,
+        "floor": 6,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 608,
+        "floor": 6,
+        "room_type": "Deluxe Room",
+        "price": 2600000,
+        "status": "available"
+    },
+    {
+        "room_id": 701,
+        "floor": 7,
+        "room_type": "Family Room",
+        "price": 3000000,
+        "status": "available"
+    },
+    {
+        "room_id": 702,
+        "floor": 7,
+        "room_type": "Family Room",
+        "price": 3000000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 703,
+        "floor": 7,
+        "room_type": "Family Room",
+        "price": 3000000,
+        "status": "available"
+    },
+    {
+        "room_id": 704,
+        "floor": 7,
+        "room_type": "Family Room",
+        "price": 3000000,
+        "status": "available"
+    },
+    {
+        "room_id": 705,
+        "floor": 7,
+        "room_type": "Family Room",
+        "price": 3000000,
+        "status": "available"
+    },
+    {
+        "room_id": 706,
+        "floor": 7,
+        "room_type": "Family Room",
+        "price": 3000000,
+        "status": "available"
+    },
+    {
+        "room_id": 707,
+        "floor": 7,
+        "room_type": "Family Room",
+        "price": 3000000,
+        "status": "available"
+    },
+    {
+        "room_id": 708,
+        "floor": 7,
+        "room_type": "Family Room",
+        "price": 3000000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 801,
+        "floor": 8,
+        "room_type": "Family Room",
+        "price": 3000000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 802,
+        "floor": 8,
+        "room_type": "Family Room",
+        "price": 3000000,
+        "status": "available"
+    },
+    {
+        "room_id": 803,
+        "floor": 8,
+        "room_type": "Family Room",
+        "price": 3000000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 804,
+        "floor": 8,
+        "room_type": "Family Room",
+        "price": 3000000,
+        "status": "available"
+    },
+    {
+        "room_id": 805,
+        "floor": 8,
+        "room_type": "Family Room",
+        "price": 3000000,
+        "status": "available"
+    },
+    {
+        "room_id": 806,
+        "floor": 8,
+        "room_type": "Family Room",
+        "price": 3000000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 807,
+        "floor": 8,
+        "room_type": "Family Room",
+        "price": 3000000,
+        "status": "available"
+    },
+    {
+        "room_id": 808,
+        "floor": 8,
+        "room_type": "Family Room",
+        "price": 3000000,
+        "status": "available"
+    },
+    {
+        "room_id": 901,
+        "floor": 9,
+        "room_type": "Master Suite",
+        "price": 5000000,
+        "status": "available"
+    },
+    {
+        "room_id": 902,
+        "floor": 9,
+        "room_type": "Master Suite",
+        "price": 5000000,
+        "status": "available"
+    },
+    {
+        "room_id": 903,
+        "floor": 9,
+        "room_type": "Master Suite",
+        "price": 5000000,
+        "status": "available"
+    },
+    {
+        "room_id": 904,
+        "floor": 9,
+        "room_type": "Master Suite",
+        "price": 5000000,
+        "status": "available"
+    },
+    {
+        "room_id": 905,
+        "floor": 9,
+        "room_type": "Master Suite",
+        "price": 5000000,
+        "status": "available"
+    },
+    {
+        "room_id": 906,
+        "floor": 9,
+        "room_type": "Master Suite",
+        "price": 5000000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 907,
+        "floor": 9,
+        "room_type": "Master Suite",
+        "price": 5000000,
+        "status": "available"
+    },
+    {
+        "room_id": 908,
+        "floor": 9,
+        "room_type": "Master Suite",
+        "price": 5000000,
+        "status": "available"
+    },
+    {
+        "room_id": 1001,
+        "floor": 10,
+        "room_type": "Master Suite",
+        "price": 5000000,
+        "status": "available"
+    },
+    {
+        "room_id": 1002,
+        "floor": 10,
+        "room_type": "Master Suite",
+        "price": 5000000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 1003,
+        "floor": 10,
+        "room_type": "Master Suite",
+        "price": 5000000,
+        "status": "available"
+    },
+    {
+        "room_id": 1004,
+        "floor": 10,
+        "room_type": "Master Suite",
+        "price": 5000000,
+        "status": "unavailable"
+    },
+    {
+        "room_id": 1005,
+        "floor": 10,
+        "room_type": "Master Suite",
+        "price": 5000000,
+        "status": "available"
+    },
+    {
+        "room_id": 1006,
+        "floor": 10,
+        "room_type": "Master Suite",
+        "price": 5000000,
+        "status": "available"
+    },
+    {
+        "room_id": 1007,
+        "floor": 10,
+        "room_type": "Master Suite",
+        "price": 5000000,
+        "status": "available"
+    },
+    {
+        "room_id": 1008,
+        "floor": 10,
+        "room_type": "Master Suite",
+        "price": 5000000,
+        "status": "available"
+    }
+]

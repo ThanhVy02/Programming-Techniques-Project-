@@ -1,0 +1,222 @@
+[
+    {
+        "booking_id": "00001",
+        "full_name": "Trần Thị B",
+        "phone": "09537798650",
+        "arrival": "2025-05-19",
+        "departure": "2025-05-22",
+        "adults": 2,
+        "children": 1,
+        "room_type": "Classic Room",
+        "room_id": 108
+    },
+    {
+        "booking_id": "00002",
+        "full_name": "Lê Văn C",
+        "phone": "09680903021",
+        "arrival": "2025-05-13",
+        "departure": "2025-05-14",
+        "adults": 1,
+        "children": 0,
+        "room_type": "Classic Room",
+        "room_id": 201
+    },
+    {
+        "booking_id": "00003",
+        "full_name": "Hoàng Minh D",
+        "phone": "09888049438",
+        "arrival": "2025-05-13",
+        "departure": "2025-05-14",
+        "adults": 2,
+        "children": 1,
+        "room_type": "Classic Room",
+        "room_id": 204
+    },
+    {
+        "booking_id": "00004",
+        "full_name": "Phạm Văn E",
+        "phone": "09876190352",
+        "arrival": "2025-05-15",
+        "departure": "2025-05-19",
+        "adults": 1,
+        "children": 1,
+        "room_type": "Classic Room",
+        "room_id": 206
+    },
+    {
+        "booking_id": "00005",
+        "full_name": "Đinh Thị F",
+        "phone": "09907418654",
+        "arrival": "2025-05-12",
+        "departure": "2025-05-13",
+        "adults": 1,
+        "children": 1,
+        "room_type": "Classic Room",
+        "room_id": 207
+    },
+    {
+        "booking_id": "00006",
+        "full_name": "Ngô Minh G",
+        "phone": "09847860623",
+        "arrival": "2025-05-16",
+        "departure": "2025-05-20",
+        "adults": 4,
+        "children": 0,
+        "room_type": "Classic Room",
+        "room_id": 302
+    },
+    {
+        "booking_id": "00007",
+        "full_name": "Huỳnh Văn H",
+        "phone": "09275759294",
+        "arrival": "2025-05-19",
+        "departure": "2025-05-22",
+        "adults": 4,
+        "children": 1,
+        "room_type": "Deluxe Room",
+        "room_id": 401
+    },
+    {
+        "booking_id": "00008",
+        "full_name": "Lý Thị I",
+        "phone": "09449864077",
+        "arrival": "2025-05-10",
+        "departure": "2025-05-12",
+        "adults": 4,
+        "children": 0,
+        "room_type": "Deluxe Room",
+        "room_id": 405
+    },
+    {
+        "booking_id": "00009",
+        "full_name": "Vũ Văn J",
+        "phone": "09605695923",
+        "arrival": "2025-05-02",
+        "departure": "2025-05-07",
+        "adults": 2,
+        "children": 0,
+        "room_type": "Deluxe Room",
+        "room_id": 408
+    },
+    {
+        "booking_id": "00010",
+        "full_name": "Nguyễn Thị K",
+        "phone": "09139341239",
+        "arrival": "2025-05-17",
+        "departure": "2025-05-18",
+        "adults": 1,
+        "children": 2,
+        "room_type": "Deluxe Room",
+        "room_id": 504
+    },
+    {
+        "booking_id": "00011",
+        "full_name": "Phạm Minh L",
+        "phone": "09440978280",
+        "arrival": "2025-05-05",
+        "departure": "2025-05-06",
+        "adults": 4,
+        "children": 2,
+        "room_type": "Deluxe Room",
+        "room_id": 508
+    },
+    {
+        "booking_id": "00012",
+        "full_name": "Lê Thị M",
+        "phone": "09570734289",
+        "arrival": "2025-05-07",
+        "departure": "2025-05-09",
+        "adults": 1,
+        "children": 2,
+        "room_type": "Deluxe Room",
+        "room_id": 606
+    },
+    {
+        "booking_id": "00013",
+        "full_name": "Bùi Văn N",
+        "phone": "09641539610",
+        "arrival": "2025-05-17",
+        "departure": "2025-05-21",
+        "adults": 3,
+        "children": 0,
+        "room_type": "Family Room",
+        "room_id": 702
+    },
+    {
+        "booking_id": "00014",
+        "full_name": "Hồ Thị O",
+        "phone": "09423994511",
+        "arrival": "2025-05-01",
+        "departure": "2025-05-02",
+        "adults": 4,
+        "children": 1,
+        "room_type": "Family Room",
+        "room_id": 708
+    },
+    {
+        "booking_id": "00015",
+        "full_name": "Đào Văn P",
+        "phone": "09488365838",
+        "arrival": "2025-05-15",
+        "departure": "2025-05-17",
+        "adults": 4,
+        "children": 2,
+        "room_type": "Family Room",
+        "room_id": 801
+    },
+    {
+        "booking_id": "00016",
+        "full_name": "Đặng Thị Q",
+        "phone": "09575539217",
+        "arrival": "2025-05-16",
+        "departure": "2025-05-18",
+        "adults": 2,
+        "children": 2,
+        "room_type": "Family Room",
+        "room_id": 803
+    },
+    {
+        "booking_id": "00017",
+        "full_name": "Trịnh Văn R",
+        "phone": "09928709105",
+        "arrival": "2025-05-16",
+        "departure": "2025-05-21",
+        "adults": 4,
+        "children": 0,
+        "room_type": "Family Room",
+        "room_id": 806
+    },
+    {
+        "booking_id": "00018",
+        "full_name": "Nguyễn Minh S",
+        "phone": "09226399568",
+        "arrival": "2025-05-05",
+        "departure": "2025-05-10",
+        "adults": 3,
+        "children": 1,
+        "room_type": "Master Suite",
+        "room_id": 906
+    },
+    {
+        "booking_id": "00019",
+        "full_name": "Trần Văn T",
+        "phone": "09829962440",
+        "arrival": "2025-05-18",
+        "departure": "2025-05-19",
+        "adults": 2,
+        "children": 0,
+        "room_type": "Master Suite",
+        "room_id": 1002
+    },
+    {
+        "booking_id": "00020",
+        "full_name": "Nguyễn Văn A",
+        "phone": "09952071235",
+        "arrival": "2025-05-13",
+        "departure": "2025-05-14",
+        "adults": 4,
+        "children": 0,
+        "room_type": "Master Suite",
+        "room_id": 1004
+    }
+]

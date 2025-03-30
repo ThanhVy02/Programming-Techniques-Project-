@@ -1,0 +1,222 @@
+[
+    {
+        "invoice_id": "00001",
+        "customer_name": "Trần Thị B",
+        "phone_number": "09537798650",
+        "arrival_date": "2025-05-19",
+        "departure_date": "2025-05-22",
+        "days_of_stay": 3,
+        "room_type": "Classic Room",
+        "room_price_per_day": 2400000,
+        "total_price": 7200000
+    },
+    {
+        "invoice_id": "00002",
+        "customer_name": "Lê Văn C",
+        "phone_number": "09680903021",
+        "arrival_date": "2025-05-13",
+        "departure_date": "2025-05-14",
+        "days_of_stay": 1,
+        "room_type": "Classic Room",
+        "room_price_per_day": 2400000,
+        "total_price": 2400000
+    },
+    {
+        "invoice_id": "00003",
+        "customer_name": "Hoàng Minh D",
+        "phone_number": "09888049438",
+        "arrival_date": "2025-05-13",
+        "departure_date": "2025-05-14",
+        "days_of_stay": 1,
+        "room_type": "Classic Room",
+        "room_price_per_day": 2400000,
+        "total_price": 2400000
+    },
+    {
+        "invoice_id": "00004",
+        "customer_name": "Phạm Văn E",
+        "phone_number": "09876190352",
+        "arrival_date": "2025-05-15",
+        "departure_date": "2025-05-19",
+        "days_of_stay": 4,
+        "room_type": "Classic Room",
+        "room_price_per_day": 2400000,
+        "total_price": 9600000
+    },
+    {
+        "invoice_id": "00005",
+        "customer_name": "Đinh Thị F",
+        "phone_number": "09907418654",
+        "arrival_date": "2025-05-12",
+        "departure_date": "2025-05-13",
+        "days_of_stay": 1,
+        "room_type": "Classic Room",
+        "room_price_per_day": 2400000,
+        "total_price": 2400000
+    },
+    {
+        "invoice_id": "00006",
+        "customer_name": "Ngô Minh G",
+        "phone_number": "09847860623",
+        "arrival_date": "2025-05-16",
+        "departure_date": "2025-05-20",
+        "days_of_stay": 4,
+        "room_type": "Classic Room",
+        "room_price_per_day": 2400000,
+        "total_price": 9600000
+    },
+    {
+        "invoice_id": "00007",
+        "customer_name": "Huỳnh Văn H",
+        "phone_number": "09275759294",
+        "arrival_date": "2025-05-19",
+        "departure_date": "2025-05-22",
+        "days_of_stay": 3,
+        "room_type": "Deluxe Room",
+        "room_price_per_day": 2600000,
+        "total_price": 7800000
+    },
+    {
+        "invoice_id": "00008",
+        "customer_name": "Lý Thị I",
+        "phone_number": "09449864077",
+        "arrival_date": "2025-05-10",
+        "departure_date": "2025-05-12",
+        "days_of_stay": 2,
+        "room_type": "Deluxe Room",
+        "room_price_per_day": 2600000,
+        "total_price": 5200000
+    },
+    {
+        "invoice_id": "00009",
+        "customer_name": "Vũ Văn J",
+        "phone_number": "09605695923",
+        "arrival_date": "2025-05-02",
+        "departure_date": "2025-05-07",
+        "days_of_stay": 5,
+        "room_type": "Deluxe Room",
+        "room_price_per_day": 2600000,
+        "total_price": 13000000
+    },
+    {
+        "invoice_id": "00010",
+        "customer_name": "Nguyễn Thị K",
+        "phone_number": "09139341239",
+        "arrival_date": "2025-05-17",
+        "departure_date": "2025-05-18",
+        "days_of_stay": 1,
+        "room_type": "Deluxe Room",
+        "room_price_per_day": 2600000,
+        "total_price": 2600000
+    },
+    {
+        "invoice_id": "00011",
+        "customer_name": "Phạm Minh L",
+        "phone_number": "09440978280",
+        "arrival_date": "2025-05-05",
+        "departure_date": "2025-05-06",
+        "days_of_stay": 1,
+        "room_type": "Deluxe Room",
+        "room_price_per_day": 2600000,
+        "total_price": 2600000
+    },
+    {
+        "invoice_id": "00012",
+        "customer_name": "Lê Thị M",
+        "phone_number": "09570734289",
+        "arrival_date": "2025-05-07",
+        "departure_date": "2025-05-09",
+        "days_of_stay": 2,
+        "room_type": "Deluxe Room",
+        "room_price_per_day": 2600000,
+        "total_price": 5200000
+    },
+    {
+        "invoice_id": "00013",
+        "customer_name": "Bùi Văn N",
+        "phone_number": "09641539610",
+        "arrival_date": "2025-05-17",
+        "departure_date": "2025-05-21",
+        "days_of_stay": 4,
+        "room_type": "Family Room",
+        "room_price_per_day": 3000000,
+        "total_price": 12000000
+    },
+    {
+        "invoice_id": "00014",
+        "customer_name": "Hồ Thị O",
+        "phone_number": "09423994511",
+        "arrival_date": "2025-05-01",
+        "departure_date": "2025-05-02",
+        "days_of_stay": 1,
+        "room_type": "Family Room",
+        "room_price_per_day": 3000000,
+        "total_price": 3000000
+    },
+    {
+        "invoice_id": "00015",
+        "customer_name": "Đào Văn P",
+        "phone_number": "09488365838",
+        "arrival_date": "2025-05-15",
+        "departure_date": "2025-05-17",
+        "days_of_stay": 2,
+        "room_type": "Family Room",
+        "room_price_per_day": 3000000,
+        "total_price": 6000000
+    },
+    {
+        "invoice_id": "00016",
+        "customer_name": "Đặng Thị Q",
+        "phone_number": "09575539217",
+        "arrival_date": "2025-05-16",
+        "departure_date": "2025-05-18",
+        "days_of_stay": 2,
+        "room_type": "Family Room",
+        "room_price_per_day": 3000000,
+        "total_price": 6000000
+    },
+    {
+        "invoice_id": "00017",
+        "customer_name": "Trịnh Văn R",
+        "phone_number": "09928709105",
+        "arrival_date": "2025-05-16",
+        "departure_date": "2025-05-21",
+        "days_of_stay": 5,
+        "room_type": "Family Room",
+        "room_price_per_day": 3000000,
+        "total_price": 15000000
+    },
+    {
+        "invoice_id": "00018",
+        "customer_name": "Nguyễn Minh S",
+        "phone_number": "09226399568",
+        "arrival_date": "2025-05-05",
+        "departure_date": "2025-05-10",
+        "days_of_stay": 5,
+        "room_type": "Master Suite",
+        "room_price_per_day": 5000000,
+        "total_price": 25000000
+    },
+    {
+        "invoice_id": "00019",
+        "customer_name": "Trần Văn T",
+        "phone_number": "09829962440",
+        "arrival_date": "2025-05-18",
+        "departure_date": "2025-05-19",
+        "days_of_stay": 1,
+        "room_type": "Master Suite",
+        "room_price_per_day": 5000000,
+        "total_price": 5000000
+    },
+    {
+        "invoice_id": "00020",
+        "customer_name": "Nguyễn Văn A",
+        "phone_number": "09952071235",
+        "arrival_date": "2025-05-13",
+        "departure_date": "2025-05-14",
+        "days_of_stay": 1,
+        "room_type": "Master Suite",
+        "room_price_per_day": 5000000,
+        "total_price": 5000000
+    }
+]
